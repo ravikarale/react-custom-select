@@ -1,6 +1,6 @@
 {
-  "name": "react-custom-select",
-  "version": "0.1.0",
+  "name": "react-select-with-icon",
+  "version": "0.1.1",
   "private": false,
   "babel": {
     "presets": [
@@ -43,5 +43,17 @@
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/preset-react": "^7.8.3"
-  }
+  },
+  "description": "A simple, configurable and reusable Select component for React.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravikarale/react-custom-select.git"
+  },
+  "author": "ravindra karale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravikarale/react-custom-select/issues"
+  },
+  "homepage": "https://github.com/ravikarale/react-custom-select#readme"
 }

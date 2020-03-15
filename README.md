@@ -1,4 +1,4 @@
-# React Custom Select
+# React Custom Select with icon
 
 A simple, configurable and reusable Select component for React.
 
@@ -9,7 +9,7 @@ A simple, configurable and reusable Select component for React.
 The package can be installed via [npm](https://github.com/npm/cli):
 
 ```
-npm install react-custom-select --save
+npm install react-select-with-icon --save
 ```
 
 ## Configuration
